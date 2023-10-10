@@ -4,10 +4,13 @@ This is the iteration assignment in BAN400. As you know -- given that you have c
 
 **Date:**
 10/10/2023
+
 **Name:**
 Brage
+
 **Student number:**
 s232686
+
 ## :information_source: Problem 1
 Update the personal information above.
 
